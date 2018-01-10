@@ -1,5 +1,5 @@
 module RefilePreprocess
-s  module App
+  module App
     # for lazy process
     class SkippableProcessor
       def initialize(name, &block)
