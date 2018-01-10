@@ -10,7 +10,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'refile_preprocess', github: "mountposition-team/refile-preprocess"
+gem 'refile_preprocess', github: "mountposition-team/refile_preprocess"
 ```
 
 And then execute:
